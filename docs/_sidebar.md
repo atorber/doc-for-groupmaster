@@ -10,4 +10,4 @@
 
   - [回调配置](callback.md)
 
-- [更新日志](changelog.md)
+- [更新日志](changlog.md)
