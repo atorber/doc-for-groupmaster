@@ -10,4 +10,7 @@
 
   - [回调配置](callback.md)
 
-- [更新日志](changlog.md)
+- 更多
+
+  - [更新日志](log.md)
+  - [捐赠 ](log.md)
