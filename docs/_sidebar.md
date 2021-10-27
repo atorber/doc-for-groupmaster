@@ -1,20 +1,20 @@
-- 入门
+- 开始
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [快速入门](quickstart.md)
+  - [书写更多页面](more-pages.md)
+  - [自定义导航栏](custom-navbar.md)
+  - [封面](cover.md)
 
-- Customization
+- 定制
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [配置](configuration.md)
+  - [主题](themes.md)
+  - [插件列表](plugins.md)
+  - [开发插件](write-a-plugin.md)
+  - [Markdown配置](markdown.md)
+  - [语法高亮](language-highlight.md)
 
-- Guide
+- 指导
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
