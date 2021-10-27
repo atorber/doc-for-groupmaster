@@ -8,6 +8,6 @@
 
 - 开发者
 
-  - [回调配置](configuration.md)
+  - [回调配置](callback.md)
 
 - [更新日志](changelog.md)
