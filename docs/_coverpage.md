@@ -8,4 +8,4 @@
 - 解救群主于繁杂的统计
 
 [GitHub](https://github.com/atorber/groupmaster/)
-[Getting Started](#群管理秘书)
+[开始使用](#群管理秘书)
