@@ -1,6 +1,6 @@
-## docsify
+## 群管理秘书
 
-> A magical documentation site generator.
+> 简单高效的机器人微信群组管理工具.
 
 ## What it is
 
