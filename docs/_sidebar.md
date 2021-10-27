@@ -1,6 +1,5 @@
 - 操作说明
 
-  - [快速入门](quickstart.md)
   - [群管理](group.md)
   - [活动管理](act.md)
   - [活动缴费](pay.md)
