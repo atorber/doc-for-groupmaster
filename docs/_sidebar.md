@@ -4,7 +4,7 @@
   - [群管理](group.md)
   - [活动管理](act.md)
   - [活动缴费](pay.md)
-  - [活动互动]](content.md)
+  - [活动互动](content.md)
 
 - 开发者
 
