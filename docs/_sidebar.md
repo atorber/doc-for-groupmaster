@@ -1,6 +1,6 @@
-- Getting started
+- 入门
 
-  - [快速入门](quickstart.md)
+  - [Quick start](quickstart.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
